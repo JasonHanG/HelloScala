@@ -1,2 +1,2 @@
-hello scala
+记录Scala学习过程
 
