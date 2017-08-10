@@ -1,2 +1,1 @@
-记录Scala学习过程
-
+Some basic usage of scala
